@@ -1,0 +1,7 @@
+fluxo de trabalho git local
+
+1. git checkout -b novabranch
+2. atualiza ou cria arquivos
+3. gid add .
+4. git status
+5. git commit
